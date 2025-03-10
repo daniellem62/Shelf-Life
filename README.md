@@ -7,6 +7,7 @@
 **An app that helps track food expiry dates, cut waste, and prevent overbuying**
 
 **Deployed link:** https://shelf-life-opal.vercel.app/
+**Presentation link:** https://www.canva.com/design/DAGg2mvaSpA/6OBXUrcLsHnreVolcMEqRQ/view?utm_content=DAGg2mvaSpA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he872c538b4
 
 ---
 
